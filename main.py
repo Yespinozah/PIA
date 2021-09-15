@@ -3,7 +3,6 @@ import sys
 import datetime
 import random
 import sqlite3
-#demo
 class Conexion:
     
     def open(self):
